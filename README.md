@@ -1,1 +1,1 @@
-https://github.com/krasnoffmaker/slozhno-sosredotochitsya-fd#
+https://github.com/krasnoffmaker/slozhno-sosredotochitsya-fd
