@@ -56,7 +56,7 @@
   bottom: 10px;
   left: 10px;
   border-width: 1px;
-  border-color: var(--color-decor-text);
+  border-color: var(--color-decor);
   border-right: transparent;
   border-top: transparent;
   border-style: solid;
@@ -253,6 +253,11 @@ margin-top: 55px;
 }
 
 @media (width >= 768px) {
+
+  .decorated-zone {
+
+    block-size: 100vh;
+  }
 
   .decorated-zone::before {
 
