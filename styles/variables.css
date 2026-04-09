@@ -1,14 +1,15 @@
 :root {
-  --bg-img: url("../images/cover-image-dark.png");
-   --bg-color-page: #000028;
-  --bg-color-description: #ff0070;
-  --color-title: #db00ff;
-  --color-title-card: #ff0070;
-  --color-description-section: #000028;
-  --color-description-card: #f1b2ce;
-  --main-font-bold: "IBMPlexMono-Bold";
-  --main-font-regular: "IBMPlexMono-Regular";
+  --bg-body-img: url("../images/cover-image-dark.png");
+  --bg-cl-main: #000028;
+  --color-decor: #FF0070;
+  --bg-cl-header-description: #FF0070;
+  --color-header-title: #db00ff;
+  --color-header-description: #000028;
+  --color-section-title: #FF0070;
+  --bg-cl-card-title: #FF0070;
+  --color-card-title: #000028;
+  --color-card-description: #F1B2CE;
   --accent-color: #ff0070;
-  --opacity-decor-text: 100;
+  --opacity-decor-zone: 100;
 }
 
