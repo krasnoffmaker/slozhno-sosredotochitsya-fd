@@ -1,15 +1,14 @@
 :root {
   --bg-body-img: url("../images/cover-image-dark.png");
   --bg-cl-main: #000028;
-  --color-decor: #FF0070;
-  --bg-cl-header-description: #FF0070;
+  --color-decor: #ff0070;
+  --bg-cl-header-description: #ff0070;
   --color-header-title: #db00ff;
   --color-header-description: #000028;
-  --color-section-title: #FF0070;
-  --bg-cl-card-title: #FF0070;
+  --color-section-title: #ff0070;
+  --bg-cl-card-title: #ff0070;
   --color-card-title: #000028;
-  --color-card-description: #F1B2CE;
+  --color-card-description: #f1b2ce;
   --accent-color: #ff0070;
   --opacity-decor-zone: 100;
 }
-
