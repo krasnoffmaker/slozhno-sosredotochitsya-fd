@@ -62,8 +62,8 @@ a {
 
 img {
   inline-size: 100%;
-  block-size: 100%;
   max-block-size: 100%;
+  block-size: 100%;
   overflow: hidden;
   object-fit: cover;
 }
