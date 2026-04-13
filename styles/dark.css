@@ -1,7 +1,9 @@
+
 :root.theme-dark {
   --bg-body-img: url("../images/cover-image-dark.png");
   --bg-cl-main: #000028;
   --color-decor: #ff0070;
+   --color-button-menu: rgba(255, 0, 112, 0.4);
   --bg-cl-header-description: #ff0070;
   --color-header-title: #db00ff;
   --color-header-description: #000028;

@@ -1,7 +1,9 @@
+
 :root.theme-light {
   --bg-body-img: url("../images/cover-image-light.png");
   --bg-cl-main: #fff1f7;
   --color-decor: #353430;
+   --color-button-menu: rgba(53, 52, 48, 0.4);
   --bg-cl-header-description: #ff8dcb;
   --color-header-title: #ffc2e6;
   --color-header-description: #353430;
@@ -11,4 +13,22 @@
   --color-card-description: #353430;
   --accent-color: #ff8dcb;
   --opacity-decor-zone: 0;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+   --bg-body-img: url("../images/cover-image-light.png");
+  --bg-cl-main: #fff1f7;
+  --color-decor: #353430;
+  --color-button-menu: rgba(53, 52, 48, 0.4);
+  --bg-cl-header-description: #ff8dcb;
+  --color-header-title: #ffc2e6;
+  --color-header-description: #353430;
+  --color-section-title: #353430;
+  --bg-cl-card-title: #ff8dcb;
+  --color-card-title: #353430;
+  --color-card-description: #353430;
+  --accent-color: #ff8dcb;
+  --opacity-decor-zone: 0;
+  }
 }
